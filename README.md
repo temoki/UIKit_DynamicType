@@ -66,3 +66,5 @@ Font size change due to combination UIContentSizeCategory and UIFont.TextStyle.
 | **Footnote**    | 12 | 12 | 12 | 13 | 15 | 17 | 19 | 23 | 27 | 33 | 38 | 44 |
 | **Caption1**    | 11 | 11 | 11 | 12 | 14 | 16 | 18 | 22 | 26 | 32 | 37 | 43 |
 | **Caption2**    | 11 | 11 | 11 | 11 | 13 | 15 | 17 | 20 | 24 | 29 | 34 | 41 |
+
+_Check with Xcode 11.3 and iOS 13.3 simulator_
