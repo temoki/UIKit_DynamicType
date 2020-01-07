@@ -6,10 +6,13 @@ Sample iOS application to check UIKit Dynamic Type.
 
 ## UIContentSizeCategory
 
-<img src="https://github.com/temoki/UIKit_DynamicType/blob/master/Images/dynamictype_large-off_ja.png" width=300> <img src="https://github.com/temoki/UIKit_DynamicType/blob/master/Images/dynamictype_large-on_ja.png" width=300>
+**Larger Accessibility Size - OFF**
 
-<img src="https://github.com/temoki/UIKit_DynamicType/blob/master/Images/dynamictype_large-off_en.png" width=300> <img src="https://github.com/temoki/UIKit_DynamicType/blob/master/Images/dynamictype_large-on_en.png" width=300>
+<img src="https://github.com/temoki/UIKit_DynamicType/blob/master/Images/dynamictype_large-off_en_comment.png" width=300> 
 
+**Larger Accessibility Size - ON**
+
+<img src="https://github.com/temoki/UIKit_DynamicType/blob/master/Images/dynamictype_large-on_en_comment.png" width=300>
 
 | name | case | rawValue |
 | --- | --- | --- |
@@ -25,6 +28,10 @@ Sample iOS application to check UIKit Dynamic Type.
 | **A11yXL** | `.accessibilityExtraLarge` | `"UICTContentSizeCategoryAccessibilityXL"` |
 | **A11yXXL** | `.accessibilityExtraExtraLarge` | `"UICTContentSizeCategoryAccessibilityXXL"` |
 | **A11yXXXL** | `.accessibilityExtraExtraExtraLarge` | `"UICTContentSizeCategoryAccessibilityXXXL"` |
+
+<img src="https://github.com/temoki/UIKit_DynamicType/blob/master/Images/dynamictype_large-off_ja.png" width=300> <img src="https://github.com/temoki/UIKit_DynamicType/blob/master/Images/dynamictype_large-on_ja.png" width=300>
+
+<img src="https://github.com/temoki/UIKit_DynamicType/blob/master/Images/dynamictype_large-off_en.png" width=300> <img src="https://github.com/temoki/UIKit_DynamicType/blob/master/Images/dynamictype_large-on_en.png" width=300>
 
 ## UIFont.TextStyle
 
