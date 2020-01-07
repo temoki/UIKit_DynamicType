@@ -9,7 +9,7 @@ class Cell: UITableViewCell {
 class ViewController: UITableViewController {
     
     let allTextStyles: [UIFont.TextStyle] = [
-        .largeTitle, .title1, .title2, .title3, .headline, .subheadline, .body, .callout, .caption1, .caption2
+        .largeTitle, .title1, .title2, .title3, .headline, .subheadline, .body, .callout, .footnote, .caption1, .caption2
     ]
 
     override func viewDidLoad() {
